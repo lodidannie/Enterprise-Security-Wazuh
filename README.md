@@ -87,9 +87,6 @@ Alerts were visible on the SIEM dashboard with timestamp, affected asset, and us
 ✔️ FIM alert details
 ✔️ Alert JSON / rule match
 
-Example:
-
-![FIM Alert Example](./screenshots/fim_alert.png)
 
 ## Sample Use Cases (Real World)
 
